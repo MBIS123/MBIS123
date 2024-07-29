@@ -7,7 +7,7 @@
   <p align="left">
     <ul>
 
-- 🌱 I’m currently enhancing my knowledge in [SpringBoot](SpringBoot)
+- 🌱 I’m currently enhancing my knowledge in **SpringBoot**
 
 - 👯 I’m looking to advance my career as **Software Engineer**
 
